@@ -41,3 +41,11 @@ nav ul {
 p + strong {
   color: #fff;
 }
+
+.dfn {
+  background-color: #719e07;
+}
+
+.types {
+  background-color: #719e07;
+}
